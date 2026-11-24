@@ -1,0 +1,6 @@
+ABE OG LFC correlation grid — filtering
+total rows in table      : 1070
+targeting guides         : 1034
+sensor editing >=20% (any of 4 tissues): 848
+Input_median >=100      : 827
+final (complete LFC)     : 827

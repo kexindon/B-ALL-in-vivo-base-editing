@@ -1,0 +1,7 @@
+x,y,pearson_r,spearman_rho,n_gRNA
+In Vitro,Spleen,0.627,0.549,827
+In Vitro,Bone Marrow,0.639,0.552,827
+Spleen,Bone Marrow,0.749,0.71,827
+In Vitro,Meninges,0.503,0.449,827
+Spleen,Meninges,0.513,0.482,827
+Bone Marrow,Meninges,0.514,0.464,827
