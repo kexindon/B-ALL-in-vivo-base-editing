@@ -1,0 +1,9 @@
+arm,n_gRNA,tissues,gridsize,dropped_NA,pdf
+ABE_OG,848,"In Vitro,Spleen,Bone Marrow,Meninges",16,0,ABE_OG_UMAP.pdf
+CBE_OG,9992,"In Vitro,Spleen,Bone Marrow,Meninges",30,0,CBE_OG_UMAP.pdf
+ABE_FC_EPO_T0,169,"In Vitro,Spleen,Bone Marrow",8,0,ABE_FC_EPO_T0_UMAP.pdf
+CBE_FC_EPO_T0,629,"In Vitro,Spleen,Bone Marrow",14,0,CBE_FC_EPO_T0_UMAP.pdf
+ABE_FC_BC_T0,169,"In Vitro,Spleen,Bone Marrow",8,0,ABE_FC_BC_T0_UMAP.pdf
+CBE_FC_BC_T0,629,"In Vitro,Spleen,Bone Marrow",14,0,CBE_FC_BC_T0_UMAP.pdf
+ABE_FC_EPO_TO_BC,169,"In Vitro,Spleen,Bone Marrow",8,0,ABE_FC_EPO_TO_BC_UMAP.pdf
+CBE_FC_EPO_TO_BC,617,"In Vitro,Spleen,Bone Marrow",13,0,CBE_FC_EPO_TO_BC_UMAP.pdf
